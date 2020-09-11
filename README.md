@@ -13,4 +13,6 @@
 - 🗻 Building the future
 - 📫 contact me: hangxingbao@gmail.com
 
+<!--
 ![baohangxing's github stats](https://github-readme-stats.vercel.app/api?username=baohangxing&count_private=true)
+-->
