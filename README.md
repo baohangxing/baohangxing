@@ -4,5 +4,5 @@
 - 🎵 Love history and music
 - 🎮 Like to play strategy or simulation games
 - 📚 Reading is a habit of life
-- 🗻 Building the future
+- 🗻 Life is what? Get busy living or get busy dying
 - 📫 contact me: hangxingbao@gmail.com
