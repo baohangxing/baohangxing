@@ -3,7 +3,7 @@
 📫 Contact me: hangxingbao@gmail.com
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/baohangxing/baohangxing/main/assets/github-contribution-grid-snake.svg" >
+  <img src="https://raw.githubusercontent.com/baohangxing/baohangxing/refs/heads/master/assets/github-contribution-grid-snake.svg" >
 </div>
 
 
