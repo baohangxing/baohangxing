@@ -23,6 +23,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: 'dark'
           outputs: |
             ./assets/github-contribution-grid-snake.svg
             ./assets/github-contribution-grid-snake.gif
