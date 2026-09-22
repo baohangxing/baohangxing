@@ -8,7 +8,5 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baohangxing&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baohangxing&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baohangxing&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baohangxing&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baohangxing&theme=github_dark)
